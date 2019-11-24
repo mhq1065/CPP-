@@ -15,7 +15,7 @@ int length(T &arr) {
 int main() {
     int s1[] = {1, 3, 2, 4, 5};
     float s2[] = {1.3, 2, 3.5, 0.1, 6.2};
-    // cout << length(s1) << endl;
+    cout << length(s1) << endl;
     cout << min(s1, length(s1)) << endl;
     cout << min(s2, length(s2));
     return 0;
