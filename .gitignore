@@ -1,0 +1,5 @@
+*.out
+*.exe
+test.cpp
+test.h
+.vscode/*
